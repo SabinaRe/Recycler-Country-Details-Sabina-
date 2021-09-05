@@ -139,7 +139,7 @@ public class MainActivity extends AppCompatActivity {
             detail6.setDetailsID("this is nepal");
             detail6.setFlagID(R.drawable.usa);
             detail6.setAnimalsID("American Bison");
-            detail6.setBirdsID("Bald Egale");
+            detail6.setBirdsID("Bald Eagle");
             holder.add(detail6);
 
         details_model detail7 = new details_model();
@@ -149,7 +149,7 @@ public class MainActivity extends AppCompatActivity {
             detail7.setPopulationID("83.02 m");
             detail7.setDetailsID("this is nepal");
             detail7.setFlagID(R.drawable.germ);
-            detail7.setAnimalsID("Federal Egal");
+            detail7.setAnimalsID("Federal Eagle");
             detail7.setBirdsID("Eagle");
             holder.add(detail7);
         return holder;

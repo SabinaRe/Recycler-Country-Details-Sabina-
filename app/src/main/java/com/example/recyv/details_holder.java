@@ -32,7 +32,7 @@ public class details_holder extends AppCompatActivity{
             areaID.setText(getIntent().getStringExtra("area_key"));
             religionID.setText(getIntent().getStringExtra("religion_key"));
             populationID.setText(getIntent().getStringExtra("population_key"));
-            detailsID.setText(getIntent().getStringExtra("details_key"));
+            detailsID.setText(getIntent().getStringExtra("details_area"));
             animalsID.setText(getIntent().getStringExtra("animals_key"));
             birdsID.setText(getIntent().getStringExtra("birds_key"));
         }
